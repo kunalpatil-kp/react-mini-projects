@@ -59,4 +59,4 @@ Classic Rock-Paper-Scissors game against computer with score tracking and histor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mini-projects.git
+   git clone https://github.com/kunalpatil-kp/mini-projects.git
